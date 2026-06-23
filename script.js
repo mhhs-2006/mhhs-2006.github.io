@@ -5,7 +5,7 @@ const questions = [
   {
     section: "common",
     sheetKey: "Q_구체적건의",
-    title: "구체적으로 건의하고 싶은 내용을 자유롭게 적어주세요.",
+    title: "건의하고 싶은 내용을 구체적으로 적어주세요!",
     type: "textarea",
     placeholder: "예) 생활기록부 기재 가능 행사가 너무 적어요 / 학교 물품을 어떻게 사용하는지 모르겠어요 / 복사기가 있으면 좋겠어요",
   },
